@@ -1,4 +1,4 @@
-# **Talent-IQ**
+# **Talent-IQ** update
 #### Smart Resume Parsing & Candidate Matching for Modern HR Teams
 
 ### Description:
